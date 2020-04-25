@@ -1,0 +1,179 @@
+body {
+    background-color: #181f33;
+    font-family: 'Baloo Bhaina 2', cursive;
+    color: #d9a5cb;
+}
+
+.Signatures{
+    font-family: initial;
+    left:1000px;
+}
+
+
+.bunglogo img {
+    width: 1250px;
+    height: 703px;
+}
+
+.bungh1 {
+    color: blue;
+    position: relative;
+    top:-600px
+}
+
+.img {
+    width: 200px;
+    height: 200px;
+}
+
+.server-link a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.server-link a:link {
+    text-decoration: none;
+    color: skyblue;
+    position: relative;
+    top:-600px 
+}
+
+.server-link a:visited {
+    text-decoration: none;
+    color: skyblue;
+}
+
+.form-container {
+    display: block;
+    position: relative;
+    top: 0px;
+
+}
+
+.form input {
+    font-size: 1.5rem;
+    font-family: inherit;
+    color: inherit;
+    padding: 1.5rem 2rem;
+    width: 15%;
+    display: block;
+    transition: all 0.3s;
+}
+
+.form input:focus {
+    outline: none;
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.1);
+}
+
+.serverh2 {
+color:skyblue;
+font-family: 'Times New Roman', Times, serif;
+position: relative;
+top: -560px;
+
+
+}
+
+.BoxUno {
+    background-image: linear-gradient(-90deg, red, yellow);
+    width: 200px;
+    padding: 20px;
+    border: 20px solid rgb(200, 255, 0);
+    margin: 20px;
+    font-family: sans-serif;
+    color: #000000;
+    font-weight: bold;
+    position: relative;
+    top: -580px;
+    left:-65px;
+
+
+}
+
+.Title{
+   background-image:url(https://cdn.discordapp.com/attachments/703071786509664314/703074765245644960/Clouds.jpg);  
+}
+
+.bungimg {
+    position: relative;
+    top: -300px;
+    right: -1390px
+}
+
+.text {
+position: relative;
+top:-620px;
+background-image: linear-gradient(pink, orange);
+font-family: sans-serif;
+color: #000000;
+width: 700px;
+font-size: large;
+border: 20px solid aqua;
+
+}
+
+.ltjs {
+position: relative;
+top: -590px;
+
+}
+
+.Leader{
+position: relative;
+top: -585px;
+
+}
+
+.NewsArticleUno{
+   background-color: rgb(0, 0, 0);
+   border: 10px solid rgb(200, 255, 0);
+   width: 700px;
+   height: 700px;
+   margin: 20px;
+   position: relative;
+   top: -580px;
+   left: -11px;
+   
+}
+
+.PubUno{
+     word-wrap: break-word;
+    font-family: 'Times New Roman', Times, serif;
+     color: rgb(255, 238, 0);
+     position: relative;
+    top: -1240px;
+    left:40px;
+}
+
+.ArticalUnoImage{
+   position: relative;
+   top:-1240px;
+   left:30px;
+
+}
+
+.ArticleDos{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 238, 0);
+    position: relative;
+      left:-100px;
+      top: -1000px;
+    background-color: rgb(0, 0, 0);
+    border: 10px solid rgb(200, 255, 0);
+    width: 700px;
+    height: 700px;
+    margin: 20px;
+    position: relative;
+   top: -1812px;
+   left: 800px;
+
+}
+
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 238, 0);
+    position: relative;
+    left: 850px;
+    top: -2477px;
+  
+}
