@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+     <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>BUNGASSON SERVER</title>
+        <style> 
+        </style>
+     </head>
+     <link rel="stylesheet" href="styles.css">
+     <link href="https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&display=swap" rel="stylesheet">
+     <body>
+        <!-- Logo  -->
+
+        <div class="Title">
+            
+            <h4>Chab</h4>
+            <h4>Swag</h4>
+            
+  <img src="https://cdn.discordapp.com/attachments/702004963706142811/702765124473323583/BUNG_.png">
+        
+</div>
+
+</div>
+
+     <div class="form-container">
+        <div class="form">
+            LOGIN HERE 
+           <div class="form-group">
+               <input type="username" id="Username" placeholder="Username">
+               <label for="Username">Username</label>
+                   
+            </div>
+        
+           <div class="form-group">
+               <input type="password" id="password" placeholder="Password">
+               <label for="password">Password</label>
+           </div>
+   
+           <div class="center-btn-wrapper">
+               <button type="submit" class="btn">Submit</button>
+           </div>
+       </div>
+   </div>
+   <div class="bungimg">
+    <img src="https://media.discordapp.net/attachments/702004963706142811/702761322894589962/bung2.jpg.jpg">
+  </div>
+
+  
+
+     <!-- Headings -->
+
+        <div class="bungh1">
+             <h1>Bung Server</h1>
+        </div>
+
+          <!-- Paragraph -->
+       <div class='text'>
+        <p>
+            Bung Server was officially established in May of 2020. It is our duty to protect the interest of the internet Culture.
+            Our lord and savior Maximilian as well as Leaders have devolted our spirit in perserving happiness as well as joy
+            while fighting against internet oppression, degeneracy, ETC. We have also built a team of Information Technology
+            enthusiasts to construct conecpts within cyberspace. In the near future, we aim high to provide those in need of
+            tools that are difficult to obatin due to financial standings of the community, we also have plans on teaming up with
+            experts in order to push for reformation against greedy tech giants. It is fairly easy to join, we just ask some form of
+            contribution no matter it being a morale artist, interaction within the community or assistance. Diversity is encouraged!
+            All subjects and walks of life are welcome! 
+            
+    
+        </p>
+        </div>
+        <div class="ltjs">
+     <h2> Link To Join Server</h2>
+        </div>
+        <div class="server-link">
+            <a href="https://discord.gg/KmdDZFH" target="_blank">Bung Server</a>
+        </div>
+     <!-- Lists -->
+        <div class="Leader">
+          <h2>
+              Leaders
+          </h2>
+          </div>
+     <ul>
+         <div class="BoxUno">
+         <li> Bollabong#3478</li>
+         <li> PriamTheTrojan#7597</li>
+         <li> Unapologetic Asshole (idgaf)#0207</li>
+         <li> son goku#5585</li>
+         <li> mx#6134</li>
+         <li> Sal Fisher#3766</li>
+         <li> the memes BOI#3133</li>
+         <li> Chab#6969</li>
+        </div>
+        </ul>
+     <div class = "serverh2">
+         <h2>Server News</h2>
+     </div>
+     <div class = "NewsArticleUno"></div>
+     
+
+     
+     </div>
+     <div class = "PubUno">
+    <h1>Max.O Begs for $900 For A Puppet!</h1>
+    <h4>Published 4/24/2020 2:10 AM</h4>
+    
+    <p>It was reported on April 22nd that Max.o (A former student of animation) begged a friend for $900 in<br> order to get a puppet for whatever reason. It was also confirmed by a few individuals who interact with<br> Max.O Rcently, Max.O was being
+        condecending for his actions. After people pleaded that he apologize,<br> he denies and continued to be condencending. Jokes have been thrown around for the past few days <br> about the incident but for now things have calmed down and some server members
+        hope that Max.O <br>improves his behavior and takes in consideration of others as well as what is currently going on in the<br> world. Lastly, many ban hammers have been brought down on Max.O as well as blocks, we have not<br> confirmed yet that those moves were 
+        lifted. (The following is eyewitness)<p></p>
+    </p>
+    </div>
+
+    <div class =" ArticalUnoImage">
+        <img src="https://cdn.discordapp.com/attachments/703071786509664314/703134464242483300/Toad_puppet-3_1024x1024_-_Copy.jpg" alt="Puppet" style="width:200px;height:200px;">
+   
+    </div>
+
+    <div class = "ArticleDos">
+        
+</div>
+
+<div class= "heading">
+    <h1>Crazycheff Rages At Amrit!</h1>
+    <h4>Published 4/24/2020 9:30PM</h4>
+    <p>Amrit lets Crazycheff know whats up by making a group voice call on discord. Once the two joined in<br>
+    they start arguing about whatever. It is unkown of what has caused this conflict between the two but there<br>
+but there are rumors going around that amrit has not had good relations with crazycheff. A video down<br> below shows
+the last seconds of the fight unfolding in the voice group they resided in at the time.<br> Crazycheff also blocked many
+people and left all the servers he was in at the time. At this time, no further<br> events have unfolded and it's a stand-
+still. (The following is eyewitness)</p>
+<video width="320" height="240" controls>
+    <source src="Yelling.mp4" type="video/mp4">
+    
+  </video>
+    
+</div>
+    
+    
+</body>
+
+</html>
